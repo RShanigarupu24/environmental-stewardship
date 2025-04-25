@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background: #f0f9f4;
+  color: #2f4f4f;
+}
+
+header {
+  background: #4caf50;
+  color: white;
+  padding: 2rem;
+  text-align: center;
+}
+
+section {
+  padding: 2rem;
+  border-bottom: 1px solid #ccc;
+}
+
+h1, h2 {
+  color: #2e7d32;
+}
+
+ul {
+  list-style: disc;
+  margin-left: 2rem;
+}
+
+footer {
+  background: #388e3c;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+
+.gantt-img {
+  max-width: 100%;
+  height: auto;
+  margin-top: 1rem;
+}
